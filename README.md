@@ -5,7 +5,7 @@ The "Online Drink Order System" is a console-based Pythonapplication  designed f
  fundamental programming concepts such as variables, dictionaries, loops,
  conditionals, and list manipulation.
 
- #OBJECTIVE:
+ OBJECTIVE:
  1.To create a user-friendly interface for ordering drinks.
  2.To replace manual billing with an automated calculation system.
  3.To prevent billing errors by using stored price data.
